@@ -12,7 +12,7 @@
   - [Library Management System (Java)](https://github.com/NazmusSaad/Library-Management-System/tree/main)
 - <b>Python</b>
   - [2-Diophantine-Approximation of Exp(x)](https://github.com/NazmusSaad/2-Diophantine-Approximation/tree/main)
-- <b>Full Stack</b>
+- <b>Full Stack Web App (Python, TensorFlow, Keras, OpenCV, Streamlit and Pillow)</b>
   - [Pneumonia Image Classifier Web App](https://github.com/NazmusSaad/Pneumonia-Image-Classifier-Web-App)
 
 <h2> 🤳 Connect with me:</h2>
