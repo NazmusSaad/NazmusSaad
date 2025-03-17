@@ -12,6 +12,7 @@
   - [Library Management System (Java)](https://github.com/NazmusSaad/Library-Management-System/tree/main)
 - <b>Python</b>
   - [2-Diophantine-Approximation of Exp(x)](https://github.com/NazmusSaad/2-Diophantine-Approximation/tree/main)
+  - [Custom Pneumonia Detection CNN with Pytorch](https://github.com/NazmusSaad/Pneumonia-Detection-PyTorch/tree/main)
 - <b>Full Stack Web App (Python, TensorFlow, Keras, OpenCV, Streamlit and Pillow)</b>
   - [Pneumonia Image Classifier Web App](https://github.com/NazmusSaad/Pneumonia-Image-Classifier-Web-App)
 
