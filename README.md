@@ -15,6 +15,8 @@
   - [Custom Pneumonia Detection CNN with Pytorch](https://github.com/NazmusSaad/Pneumonia-Detection-PyTorch/tree/main)
 - <b>Full Stack Web App (Python, TensorFlow, Keras, OpenCV, Streamlit and Pillow)</b>
   - [Pneumonia Image Classifier Web App](https://github.com/NazmusSaad/Pneumonia-Image-Classifier-Web-App)
+- <b>Hardware Projects</b>
+  - [Air Hockey Game For RISC V (C)](https://github.com/NazmusSaad/Air-Hockey-Game-For-RISC-V-)
 
 <h2> 🤳 Connect with me:</h2>
 
