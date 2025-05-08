@@ -8,6 +8,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms</b>
+  - [Restaurant Wayfinder GIS (C++)](https://github.com/NazmusSaad/Restaurant-Wayfinder-GIS)
   - [Circuit Network Program (C++)](https://github.com/NazmusSaad/Circuit-Network-Program/tree/main)
   - [Library Management System (Java)](https://github.com/NazmusSaad/Library-Management-System/tree/main)
 - <b>Python</b>
