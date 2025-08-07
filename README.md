@@ -1,42 +1,78 @@
-<h1>Hello! </h1><br/>
+<h1>Hi there! 👋</h1><br/>
 
 <div>
-  I'm Md Nazmus Saad, a Computer Engineering student at the University of Toronto. I am passionate about AI & ML, software development, embedded systems, digital circuit design, and real-world problem-solving. From researching hardware optimization techniques for ML/AI applications, designing and testing Diophantine approximation algorithms in Python, to developing websites for Hackathons, I strive to create impactful technology.
-<div/>
+  I'm <b>Md Nazmus Saad</b>, a Computer Engineering student at the University of Toronto (PEY Class of 2028), passionate about building intelligent systems at the intersection of AI, software, and embedded robotics. My work spans fine-tuning large language models, deploying deep learning on edge hardware, developing real-time control for autonomous robots, and researching novel hardware optimization techniques for AI applications.
+</div>
 
+---
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>🚀 Featured Projects</h2>
 
-- <b>Data Structures and Algorithms</b>
-  - [Restaurant Wayfinder GIS (C++)](https://github.com/NazmusSaad/Restaurant-Wayfinder-GIS)
-  - [Circuit Network Program (C++)](https://github.com/NazmusSaad/Circuit-Network-Program/tree/main)
-  - [Library Management System (Java)](https://github.com/NazmusSaad/Library-Management-System/tree/main)
-- <b>Python</b>
-  - [2-Diophantine-Approximation of Exp(x)](https://github.com/NazmusSaad/2-Diophantine-Approximation/tree/main)
-  - [Custom Pneumonia Detection CNN with Pytorch](https://github.com/NazmusSaad/Pneumonia-Detection-PyTorch/tree/main)
-- <b>Full Stack Web App (Python, TensorFlow, Keras, OpenCV, Streamlit and Pillow)</b>
-  - [Pneumonia Image Classifier Web App](https://github.com/NazmusSaad/Pneumonia-Image-Classifier-Web-App)
-- <b>Hardware Projects</b>
-  - [Air Hockey Game For RISC V (C)](https://github.com/NazmusSaad/Air-Hockey-Game-For-RISC-V-)
+<h3>🧠 Machine Learning & AI</h3>
 
-<h2> 🤳 Connect with me:</h2>
+- <b>MedLLaMA: Medical Assistant LLM</b>  
+  <ul>
+    <li>Fine-tuned LLaMA 2 with QLoRA on 25k medical Q&A pairs (92% accuracy).</li>
+    <li>Integrated LangChain + ChromaDB + DuckDuckGo to enable real-time RAG.</li>
+    <li><a href="https://github.com/NazmusSaad/Medical-Assistant-LLM">[GitHub]</a></li>
+  </ul>
 
-[<img align="left" alt="Md Nazmus Saad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- <b>Super-Resolution for Medical Imaging</b>  
+  <ul>
+    <li>Latent diffusion model with VAE + U-Net Lite (PyTorch) for 4× upscaling of chest X-rays.</li>
+    <li>Deployed with TensorRT + PyCUDA for 3.8× faster inference on edge GPUs.</li>
+    <li><a href="https://github.com/petrichor-2/image-upscaler">[GitHub]</a></li>
+  </ul>
 
-[linkedin]: https://www.linkedin.com/in/md-nazmus-saad-26b732215/
+- <b>Pneumonia Detection CNN + Web App</b>  
+  <ul>
+    <li>Custom PyTorch CNN for binary chest X-ray classification (92% accuracy).</li>
+    <li>Deployed using Streamlit, OpenCV, and Pillow.</li>
+    <li><a href="https://github.com/NazmusSaad/Pneumonia-Image-Classifier-Web-App">[Web App]</a> | <a href="https://github.com/NazmusSaad/Pneumonia-Detection-PyTorch">[CNN Code]</a></li>
+  </ul>
 
+---
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>🖥️ Software & Systems</h3>
 
-Here are some ideas to get you started:
+- <b>Restaurant Wayfinder GIS (C++)</b>  
+  GUI-based map & delivery route planner with Dijkstra/A* algorithms.  
+  <a href="https://github.com/NazmusSaad/Restaurant-Wayfinder-GIS">[GitHub]</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Library Management System (Java)</b>  
+  OOP-based system with search, borrow, return, and admin functionality.  
+  <a href="https://github.com/NazmusSaad/Library-Management-System">[GitHub]</a>
+
+- <b>Circuit Network Simulator (C++)</b>  
+  Simulates voltage, resistance, and node-based circuit behavior.  
+  <a href="https://github.com/NazmusSaad/Circuit-Network-Program">[GitHub]</a>
+
+---
+
+<h3>🤖 Embedded & Robotics</h3>
+
+- <b>Air Hockey Game for RISC-V</b>  
+  Built in C for a custom RISC-V architecture with graphics and input.  
+  <a href="https://github.com/NazmusSaad/Air-Hockey-Game-For-RISC-V-">[GitHub]</a>
+
+- <b>Autonomous Soccer Robots (UTRA)</b>  
+  Built real-time control systems in Python & ROS2. Integrated YOLOv8 for visual strategy with PyTorch.
+
+---
+
+<h3>📊 Research & Algorithms</h3>
+
+- <b>2-Diophantine Approximation of Exp(x)</b>  
+  Python tool with 15-digit precision for hardware-oriented optimization research.  
+  <a href="https://github.com/NazmusSaad/2-Diophantine-Approximation">[GitHub]</a>
+
+---
+
+<h2>📬 Connect with Me</h2>
+
+<a href="https://www.linkedin.com/in/mdnazmussaad">
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/NazmusSaad">
+  <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
