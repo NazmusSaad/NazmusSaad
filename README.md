@@ -8,6 +8,26 @@
 
 <h2>🚀 Featured Projects</h2>
 
+<h3>🖥️ Software & Systems</h3>
+
+- <b>Restaurant Wayfinder GIS (C++)</b>  
+  GUI-based map & delivery route planner with Dijkstra/A* algorithms.  
+  <a href="https://github.com/NazmusSaad/Restaurant-Wayfinder-GIS">[GitHub]</a>
+
+- <b>Optimized Game of Life Simulator (C)</b>  
+  High-performance implementation of Conway’s Game of Life in C, focused on parallelism, SIMD vectorization, and cache-aware optimization.  
+  <a href="https://github.com/NazmusSaad/Game-of-Life-Simulator">[Github]</a>
+
+- <b>Library Management System (Java)</b>  
+  OOP-based system with search, borrow, return, and admin functionality.  
+  <a href="https://github.com/NazmusSaad/Library-Management-System">[GitHub]</a>
+
+- <b>Circuit Network Simulator (C++)</b>  
+  Simulates voltage, resistance, and node-based circuit behavior.  
+  <a href="https://github.com/NazmusSaad/Circuit-Network-Program">[GitHub]</a>
+
+---
+
 <h3>🧠 Machine Learning & AI</h3>
 
 - <b>MedLLaMA: Medical Assistant LLM</b>  
@@ -30,22 +50,6 @@
     <li>Deployed using Streamlit, OpenCV, and Pillow.</li>
     <li><a href="https://github.com/NazmusSaad/Pneumonia-Image-Classifier-Web-App">[Web App]</a> | <a href="https://github.com/NazmusSaad/Pneumonia-Detection-PyTorch">[CNN Code]</a></li>
   </ul>
-
----
-
-<h3>🖥️ Software & Systems</h3>
-
-- <b>Restaurant Wayfinder GIS (C++)</b>  
-  GUI-based map & delivery route planner with Dijkstra/A* algorithms.  
-  <a href="https://github.com/NazmusSaad/Restaurant-Wayfinder-GIS">[GitHub]</a>
-
-- <b>Library Management System (Java)</b>  
-  OOP-based system with search, borrow, return, and admin functionality.  
-  <a href="https://github.com/NazmusSaad/Library-Management-System">[GitHub]</a>
-
-- <b>Circuit Network Simulator (C++)</b>  
-  Simulates voltage, resistance, and node-based circuit behavior.  
-  <a href="https://github.com/NazmusSaad/Circuit-Network-Program">[GitHub]</a>
 
 ---
 
