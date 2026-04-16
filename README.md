@@ -10,6 +10,10 @@
 
 <h3>🖥️ Software & Systems</h3>
 
+- <b>System Metrics Monitor (FastAPI, React, TypeScript, Docker, Postgres)</b>  
+  Real-time system metrics dashboard with multi-device monitoring support.  
+  <a href="https://github.com/NazmusSaad/System-Metrics-Monitor">[GitHub]</a>
+
 - <b>Restaurant Wayfinder GIS (C++)</b>  
   GUI-based map & delivery route planner with Dijkstra/A* algorithms.  
   <a href="https://github.com/NazmusSaad/Restaurant-Wayfinder-GIS">[GitHub]</a>
@@ -54,6 +58,10 @@
 ---
 
 <h3>🤖 Embedded & Robotics</h3>
+
+- <b>Robotic arm that uses a STM32</b>  
+  STM32-driven 4dof arm with host-side cv/vla bridges and calibrated world-to-workspace target streaming.
+  <a href="https://github.com/saaimzr/doc-ock">[GitHub]</a>
 
 - <b>Air Hockey Game for RISC-V</b>  
   Built in C for a custom RISC-V architecture with graphics and input.  
