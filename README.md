@@ -10,6 +10,11 @@
 
 <h3>🖥️ Software & Systems</h3>
 
+
+- <b>Real Time AI Video Upscaling OBS Plugin (C/C++, TensorRT, Direct3D11, HLSL)</b>  
+  OBS plugin filter that runs optimized ML inference to upscale video input in real time.  
+  <a href="https://github.com/utmist-vid-upscale/OBS-TensorRT-Filter">[GitHub]</a>
+  
 - <b>System Metrics Monitor (FastAPI, React, TypeScript, Docker, Postgres)</b>  
   Real-time system metrics dashboard with multi-device monitoring support.  
   <a href="https://github.com/NazmusSaad/System-Metrics-Monitor">[GitHub]</a>
